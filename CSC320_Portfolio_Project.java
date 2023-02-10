@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 class Automobile {
-    // class fields
+    // class attributes
     private String make;
     private String model;
     private String color;
